@@ -1,0 +1,4 @@
+Title
+Slogan
+Caption
+Subject for Email
